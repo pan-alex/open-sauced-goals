@@ -1,21 +1,21 @@
 [
   {
     "full_name": "degecko/linak-ctrl",
-    "stargazers_count": 25,
+    "stargazers_count": 26,
     "open_issues_count": 0,
     "forks_count": 2
   },
   {
     "full_name": "thedaviddias/Front-End-Checklist",
-    "stargazers_count": 60355,
+    "stargazers_count": 60387,
     "open_issues_count": 2,
-    "forks_count": 5854
+    "forks_count": 5857
   },
   {
     "full_name": "IanLunn/Hover",
-    "stargazers_count": 26124,
+    "stargazers_count": 26128,
     "open_issues_count": 39,
-    "forks_count": 5645
+    "forks_count": 5643
   },
   {
     "full_name": "XollabOS/talktometechnology",
@@ -25,14 +25,14 @@
   },
   {
     "full_name": "pymc-devs/pymc-resources",
-    "stargazers_count": 1473,
+    "stargazers_count": 1474,
     "open_issues_count": 26,
-    "forks_count": 597
+    "forks_count": 596
   },
   {
     "full_name": "EpistasisLab/tpot",
-    "stargazers_count": 8616,
-    "open_issues_count": 254,
+    "stargazers_count": 8619,
+    "open_issues_count": 256,
     "forks_count": 1482
   }
 ]
