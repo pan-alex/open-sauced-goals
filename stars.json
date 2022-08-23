@@ -1,19 +1,19 @@
 [
   {
     "full_name": "degecko/linak-ctrl",
-    "stargazers_count": 29,
+    "stargazers_count": 30,
     "open_issues_count": 0,
     "forks_count": 2
   },
   {
     "full_name": "thedaviddias/Front-End-Checklist",
-    "stargazers_count": 61156,
+    "stargazers_count": 61399,
     "open_issues_count": 5,
-    "forks_count": 5914
+    "forks_count": 5933
   },
   {
     "full_name": "IanLunn/Hover",
-    "stargazers_count": 26235,
+    "stargazers_count": 26256,
     "open_issues_count": 39,
     "forks_count": 5662
   },
@@ -25,14 +25,14 @@
   },
   {
     "full_name": "pymc-devs/pymc-resources",
-    "stargazers_count": 1521,
-    "open_issues_count": 27,
+    "stargazers_count": 1523,
+    "open_issues_count": 28,
     "forks_count": 608
   },
   {
     "full_name": "EpistasisLab/tpot",
-    "stargazers_count": 8705,
-    "open_issues_count": 262,
-    "forks_count": 1498
+    "stargazers_count": 8707,
+    "open_issues_count": 263,
+    "forks_count": 1501
   }
 ]
