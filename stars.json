@@ -1,9 +1,21 @@
 [
   {
+    "full_name": "huggingface/transformers",
+    "stargazers_count": 69824,
+    "open_issues_count": 545,
+    "forks_count": 16057
+  },
+  {
+    "full_name": "jericashall/happy-notes",
+    "stargazers_count": 4,
+    "open_issues_count": 0,
+    "forks_count": 5
+  },
+  {
     "full_name": "othneildrew/Best-README-Template",
-    "stargazers_count": 7621,
+    "stargazers_count": 7660,
     "open_issues_count": 12,
-    "forks_count": 16673
+    "forks_count": 16753
   },
   {
     "full_name": "CadmiumRed40/FindAFlick",
@@ -19,13 +31,13 @@
   },
   {
     "full_name": "thedaviddias/Front-End-Checklist",
-    "stargazers_count": 61764,
+    "stargazers_count": 61853,
     "open_issues_count": 6,
-    "forks_count": 5948
+    "forks_count": 5954
   },
   {
     "full_name": "IanLunn/Hover",
-    "stargazers_count": 26308,
+    "stargazers_count": 26317,
     "open_issues_count": 39,
     "forks_count": 5666
   },
@@ -37,8 +49,8 @@
   },
   {
     "full_name": "pymc-devs/pymc-resources",
-    "stargazers_count": 1536,
-    "open_issues_count": 28,
+    "stargazers_count": 1541,
+    "open_issues_count": 27,
     "forks_count": 615
   },
   {
