@@ -1,9 +1,9 @@
 [
   {
     "full_name": "huggingface/transformers",
-    "stargazers_count": 70695,
-    "open_issues_count": 534,
-    "forks_count": 16203
+    "stargazers_count": 70965,
+    "open_issues_count": 528,
+    "forks_count": 16248
   },
   {
     "full_name": "jericashall/happy-notes",
@@ -13,9 +13,9 @@
   },
   {
     "full_name": "othneildrew/Best-README-Template",
-    "stargazers_count": 7816,
+    "stargazers_count": 7859,
     "open_issues_count": 12,
-    "forks_count": 17096
+    "forks_count": 17181
   },
   {
     "full_name": "CadmiumRed40/FindAFlick",
@@ -31,15 +31,15 @@
   },
   {
     "full_name": "thedaviddias/Front-End-Checklist",
-    "stargazers_count": 61990,
-    "open_issues_count": 6,
-    "forks_count": 5972
+    "stargazers_count": 62030,
+    "open_issues_count": 5,
+    "forks_count": 5977
   },
   {
     "full_name": "IanLunn/Hover",
-    "stargazers_count": 26370,
+    "stargazers_count": 26382,
     "open_issues_count": 39,
-    "forks_count": 5673
+    "forks_count": 5672
   },
   {
     "full_name": "XollabOS/talktometechnology",
@@ -49,13 +49,13 @@
   },
   {
     "full_name": "pymc-devs/pymc-resources",
-    "stargazers_count": 1552,
+    "stargazers_count": 1556,
     "open_issues_count": 27,
     "forks_count": 623
   },
   {
     "full_name": "EpistasisLab/tpot",
-    "stargazers_count": 8751,
+    "stargazers_count": 8753,
     "open_issues_count": 266,
     "forks_count": 1499
   }
