@@ -2,14 +2,14 @@
   {
     "full_name": "NadavShaar/react-grid-table",
     "stargazers_count": 194,
-    "open_issues_count": 12,
+    "open_issues_count": 4,
     "forks_count": 32
   },
   {
     "full_name": "huggingface/transformers",
-    "stargazers_count": 73577,
-    "open_issues_count": 553,
-    "forks_count": 16785
+    "stargazers_count": 73814,
+    "open_issues_count": 564,
+    "forks_count": 16830
   },
   {
     "full_name": "jericashall/happy-notes",
@@ -19,9 +19,9 @@
   },
   {
     "full_name": "othneildrew/Best-README-Template",
-    "stargazers_count": 8300,
-    "open_issues_count": 12,
-    "forks_count": 18134
+    "stargazers_count": 8335,
+    "open_issues_count": 13,
+    "forks_count": 18232
   },
   {
     "full_name": "CadmiumRed40/FindAFlick",
@@ -37,15 +37,15 @@
   },
   {
     "full_name": "thedaviddias/Front-End-Checklist",
-    "stargazers_count": 62502,
+    "stargazers_count": 62541,
     "open_issues_count": 10,
-    "forks_count": 6045
+    "forks_count": 6054
   },
   {
     "full_name": "IanLunn/Hover",
-    "stargazers_count": 26988,
+    "stargazers_count": 27226,
     "open_issues_count": 39,
-    "forks_count": 5713
+    "forks_count": 5730
   },
   {
     "full_name": "XollabOS/talktometechnology",
@@ -55,14 +55,14 @@
   },
   {
     "full_name": "pymc-devs/pymc-resources",
-    "stargazers_count": 1578,
-    "open_issues_count": 28,
-    "forks_count": 637
+    "stargazers_count": 1583,
+    "open_issues_count": 27,
+    "forks_count": 638
   },
   {
     "full_name": "EpistasisLab/tpot",
-    "stargazers_count": 8802,
-    "open_issues_count": 269,
-    "forks_count": 1503
+    "stargazers_count": 8808,
+    "open_issues_count": 270,
+    "forks_count": 1502
   }
 ]
