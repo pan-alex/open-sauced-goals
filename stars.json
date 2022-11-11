@@ -1,15 +1,15 @@
 [
   {
     "full_name": "NadavShaar/react-grid-table",
-    "stargazers_count": 194,
+    "stargazers_count": 195,
     "open_issues_count": 4,
     "forks_count": 32
   },
   {
     "full_name": "huggingface/transformers",
-    "stargazers_count": 73814,
-    "open_issues_count": 564,
-    "forks_count": 16830
+    "stargazers_count": 74012,
+    "open_issues_count": 570,
+    "forks_count": 16860
   },
   {
     "full_name": "jericashall/happy-notes",
@@ -19,9 +19,9 @@
   },
   {
     "full_name": "othneildrew/Best-README-Template",
-    "stargazers_count": 8335,
+    "stargazers_count": 8359,
     "open_issues_count": 13,
-    "forks_count": 18232
+    "forks_count": 18309
   },
   {
     "full_name": "CadmiumRed40/FindAFlick",
@@ -37,19 +37,19 @@
   },
   {
     "full_name": "thedaviddias/Front-End-Checklist",
-    "stargazers_count": 62541,
-    "open_issues_count": 10,
-    "forks_count": 6054
+    "stargazers_count": 62593,
+    "open_issues_count": 11,
+    "forks_count": 6059
   },
   {
     "full_name": "IanLunn/Hover",
-    "stargazers_count": 27226,
+    "stargazers_count": 27412,
     "open_issues_count": 39,
-    "forks_count": 5730
+    "forks_count": 5743
   },
   {
     "full_name": "XollabOS/talktometechnology",
-    "stargazers_count": 34,
+    "stargazers_count": 33,
     "open_issues_count": 13,
     "forks_count": 10
   },
@@ -61,8 +61,8 @@
   },
   {
     "full_name": "EpistasisLab/tpot",
-    "stargazers_count": 8808,
-    "open_issues_count": 270,
-    "forks_count": 1502
+    "stargazers_count": 8812,
+    "open_issues_count": 272,
+    "forks_count": 1503
   }
 ]
